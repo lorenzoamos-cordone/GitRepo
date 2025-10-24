@@ -1,3 +1,3 @@
 # Ricette di famiglia
-spaghetti1.md
-ricetta aglio, olio e peperoncino
+## Elenco delle ricette
+- Spaghetti aglio, olio e peperoncino (*spaghetti1.md*)
